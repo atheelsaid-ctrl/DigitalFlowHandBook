@@ -9,7 +9,7 @@ metaLinks:
 
 ## Training Section Head
 
-<details>
+<details open>
 
 <summary>Responsibilities</summary>
 
@@ -25,7 +25,7 @@ metaLinks:
 
 ## Trainer
 
-<details>
+<details open>
 
 <summary>Responsibilities</summary>
 
@@ -41,7 +41,7 @@ metaLinks:
 
 ## PM / AM
 
-<details>
+<details open>
 
 <summary>Responsibilities</summary>
 
@@ -53,7 +53,7 @@ metaLinks:
 
 ## HR
 
-<details>
+<details open>
 
 <summary>Responsibilities</summary>
 
@@ -65,7 +65,7 @@ metaLinks:
 
 ## QA
 
-<details>
+<details open>
 
 <summary>Responsibilities</summary>
 
